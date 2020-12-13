@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoStremo</string>
+    <string name="todo">TODO</string>
+    <string name="video_title">Video Title</string>
+    <string name="google">Google</string>
+    <string name="description">Description</string>
+</resources>
